@@ -1,1 +1,10 @@
-
+p{
+  color:green;
+  font-family:helvetica;
+}
+ul{
+  color:orange;
+}
+ol{
+  color:pink;
+}
