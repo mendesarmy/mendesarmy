@@ -8,3 +8,10 @@ ul{
 ol{
   color:pink;
 }
+/*
+p{
+  font:italica bold 36px helvetica; //or
+  font:italica bold 4em helvetica;
+  //order is-style>weight>size>family and weight can be in numeral form
+}
+*/
